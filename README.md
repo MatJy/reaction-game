@@ -8,7 +8,7 @@ This is a simple reaction time game built using NativeScript and Firebase. The g
 
 - Displays a traffic light that changes from red to green.
 - Measures your reaction time when you tap the screen after the light turns green.
-- Saves your reaction times to Firebase Realtime Database or Firestore.
+- Saves your reaction times to Firebase (Firestore Database).
 - Fetches and displays the saved reaction times from Firebase.
 - Built with NativeScript for cross-platform mobile support.
 - Uses Firebase for backend data storage.
